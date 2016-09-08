@@ -1,4 +1,6 @@
-#React Starter project
+#React Webpack Starter project
+
+
 
 #Setup
 
